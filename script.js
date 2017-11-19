@@ -1662,7 +1662,7 @@ let openModal = function() {
       ${document.getElementById('modalHTMLBox').value}
   </div>
   </div>`
-  document.body.innerHTML += document.getElementById('modalHTMLBox').value;
+  //document.body.innerHTML += document.getElementById('modalHTMLBox').value;
   
   
   classesToHide = ['modal-content-area', 'animated', outAnim];
