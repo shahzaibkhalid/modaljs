@@ -1,12 +1,7 @@
-/* */
-
 ::selection {
     background-color: rosybrown;
     color: white;
 }
-
-
-/* */
 
 body {
     outline: none;
@@ -14,9 +9,6 @@ body {
     background-color: #f2f2f2;
     margin: auto 20px;
 }
-
-
-/* */
 
 textarea {
     display: block;
@@ -45,9 +37,6 @@ textarea::-webkit-scrollbar-thumb {
     outline: 1px solid slategrey;
 }
 
-
-/* */
-
 .logo {
     display: block;
     margin: 40px auto;
@@ -56,16 +45,9 @@ textarea::-webkit-scrollbar-thumb {
     max-width: 100%;
 }
 
-
-/* */
-
 .main-tagline {
     text-align: center;
 }
-
-
-
-/* */
 
 .main-desc {
     text-align: center;
@@ -89,15 +71,10 @@ textarea::-webkit-scrollbar-thumb {
     }
 }
 
-/* */
-
 .btn-group {
     margin-top: 40px;
     text-align: center;
 }
-
-
-/* */
 
 .btn {
     font-size: 18px;
@@ -111,14 +88,12 @@ textarea::-webkit-scrollbar-thumb {
     cursor: pointer;
     outline: none;
 }
+
 .btn:hover {
     background-color: white;
     color: rosybrown;
     border: 2px solid rosybrown;
 }
-
-
-/* */
 
 .section-heading {
     font-size: 26px;
@@ -127,9 +102,6 @@ textarea::-webkit-scrollbar-thumb {
 .sub-section-heading {
     font-size: 20px;
 }
-
-
-/* */
 
 .inputs-container {
     text-align: center;
@@ -145,9 +117,6 @@ select {
     border-radius: 5px;
     box-shadow: 5px 5px 25px 0px rgba(46, 61, 73, 0.2);
 }
-
-
-/* */
 
 code {
     color: white;
@@ -169,8 +138,6 @@ pre {
     color: rosybrown;
 }
 
-
-/* */
 .project-link {
     text-decoration:none;
     font-size: 20px;
