@@ -6,6 +6,9 @@
 </p>
 
 <p align="center">
+modal.js is the most easiest way to add and modify interactive modal windows to a JavaScript applications.
+</p>
+<p align="center">
 Chose from wide variety of iconic animations and build any kind of
 notification popups, off-the-screen forms, beautiful nav bars and much
 more!
@@ -144,7 +147,7 @@ That's complicated! But there's a workaround.
 -   Through this way, you can add as many distinct modal windows as you
     want and trigger them using their respective triggering functions.
 
-## Inconsistencies?
+## Found any Errors?
 
 If you find any inconsistency in any language, raise an Issue and I'll fix it.
 
