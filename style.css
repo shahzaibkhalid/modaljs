@@ -64,12 +64,30 @@ textarea::-webkit-scrollbar-thumb {
 }
 
 
+
 /* */
 
 .main-desc {
     text-align: center;
 }
 
+@media (max-width: 543px) {
+    .main-tagline {
+        font-size: 18px;
+    }
+    .main-desc {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 452px) {
+    .main-tagline {
+        font-size: 16px;
+    }
+    .main-desc {
+        font-size: 12px;
+    }
+}
 
 /* */
 
