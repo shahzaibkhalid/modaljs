@@ -1661,7 +1661,7 @@ let openModal = function() {
       <i class="close-button" aria-hidden="true">&#10006;</i>
       ${document.getElementById('modalHTMLBox').value}
   </div>
-  </div>`
+  </div>`;
   //document.body.innerHTML += document.getElementById('modalHTMLBox').value;
   
   
