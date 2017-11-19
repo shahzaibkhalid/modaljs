@@ -11,9 +11,13 @@ notification popups, off-the-screen forms, beautiful nav bars and much
 more!
 </p>
 
-### Documentation
+## Use
 
-#### How to download modal.js:
+You can use modal.js by going to its [home page](https://shahzaibkhalid.github.io/modaljs)
+
+## Documentation
+
+### How to download modal.js:
 
 1.  Chose your input animation from drop down.
 2.  Chose your output animation from drop down.
@@ -25,7 +29,7 @@ more!
 6.  Download modal.js source file when you're satisfied with the look
     and content of modal window.
 
-#### How to use modal.js in your app
+### How to use modal.js in your app
 
 -   After you've downloaded `modal.js` file, include this JavaScript
     file at the bottom of HTML content, as shown below.
@@ -58,7 +62,7 @@ more!
 
 That's it! Your modal window should work like a breeze now.
 
-#### How to modify modal.js HTML and animations after downloading
+### How to modify modal.js HTML and animations after downloading
 
 Now, theres an interesting but common case, you've downloaded the
 `modal.js` file, but after downloading the file, you've found to modify
@@ -98,7 +102,7 @@ itself.
 -   You can make these changes in `modal.js` file to change animations
     and HTML content of modal window.
 
-#### How to modify modal.js styling after downloading
+### How to modify modal.js styling after downloading
 
 Now, after HTML content and animations, next thing to modify is CSS
 styling of modal window and the HTML content within modal window.
@@ -127,7 +131,7 @@ styling of modal window and the HTML content within modal window.
 That's it. Now, you can add or remove CSS style tags here and thus
 modify modal window styling.
 
-#### What if I want to add more than one modal window on same page?
+### What if I want to add more than one modal window on same page?
 
 That's complicated! But there's a workaround.
 
@@ -140,11 +144,15 @@ That's complicated! But there's a workaround.
 -   Through this way, you can add as many distinct modal windows as you
     want and trigger them using their respective triggering functions.
 
-### Developer
+## Inconsistencies?
+
+If you find any inconsistency in any language, raise an Issue and I'll fix it.
+
+## Developer
 
 modal.js is written by [Shahzaib Khalid](shahzaibkhalid.com)
 
-### License
+## License
 
 modal.js is licensed under the MIT License.
 
