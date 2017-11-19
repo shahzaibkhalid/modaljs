@@ -149,7 +149,7 @@ That's complicated! But there's a workaround.
 
 ## Found any Errors?
 
-If you find any inconsistency in any language, raise an Issue and I'll fix it.
+If you find any error, please raise an Issue and I'll fix it.
 
 ## Developer
 
