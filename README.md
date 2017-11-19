@@ -2,7 +2,6 @@
   <a href="https://shahzaibkhalid.github.io/modaljs">
     <img alt="modal.js" src="https://raw.githubusercontent.com/shahzaibkhalid/modaljs/master/images/modaljs.png" width="400"/>
   </a>
-  <h1 align="center">modal.js</h1>
 </p>
 
 <p align="center">
