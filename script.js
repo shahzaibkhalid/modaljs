@@ -1656,12 +1656,12 @@ let openModal = function() {
     document.querySelector('.modal').parentNode.removeChild(document.querySelector('.modal'));
   }
 
-  document.body.appendChild(`<div class="modal" id="myModal">
+  document.body.innerHTML += `<div class="modal" id="myModal">
   <div class="modal-content-area animated ${inAnim}">
       <i class="close-button" aria-hidden="true">&#10006;</i>
       ${document.getElementById('modalHTMLBox').value}
   </div>
-  </div>`);
+  </div>`;
   //document.body.innerHTML += document.getElementById('modalHTMLBox').value;
   
   
