@@ -13,7 +13,7 @@ more!
 
 ## Use
 
-You can use modal.js by going to its [home page](https://shahzaibkhalid.github.io/modaljs)
+You can create your interactive modal online and download it on the fly. Visit [modal.js website.](https://shahzaibkhalid.github.io/modaljs)
 
 ## Documentation
 
@@ -24,8 +24,8 @@ You can use modal.js by going to its [home page](https://shahzaibkhalid.github.i
 3.  Add/modify the HTML that you want to render inside the modal window.
 4.  Add/modify the CSS to modify the modal window styling and the
     content inside the modal.
-5.  Test how your modal will look like in your application using this
-    powerful onlien WYSIWYG editor.
+5.  Test how your modal will look like in your application using modal.js
+    powerful online WYSIWYG editor.
 6.  Download modal.js source file when you're satisfied with the look
     and content of modal window.
 
