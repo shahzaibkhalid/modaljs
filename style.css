@@ -53,7 +53,7 @@ textarea::-webkit-scrollbar-thumb {
     text-align: center;
 }
 
-@media (max-width: 543px) {
+@media (max-width: 670px) {
     .main-tagline {
         font-size: 18px;
     }
@@ -62,12 +62,30 @@ textarea::-webkit-scrollbar-thumb {
     }
 }
 
-@media (max-width: 452px) {
+@media (max-width: 502px) {
     .main-tagline {
         font-size: 16px;
     }
     .main-desc {
         font-size: 12px;
+    }
+}
+
+@media (max-width: 454px) {
+    .main-tagline {
+        font-size: 14px;
+    }
+    .main-desc {
+        font-size: 12px;
+    }
+}
+
+@media (max-width: 405px) {
+    .main-tagline {
+        font-size: 12px;
+    }
+    .main-desc {
+        font-size: 10px;
     }
 }
 
