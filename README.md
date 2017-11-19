@@ -1,19 +1,19 @@
-![modaljs](./images/modaljs.svg)
+<p align="center">
+  <a href="https://shahzaibkhalid.github.io/modaljs">
+    <img alt="modal.js" src="https://raw.githubusercontent.com/shahzaibkhalid/modaljs/images/master/modaljs.png" width="400"/>
+  </a>
+  <h1 align="center">modal.js</h1>
+</p>
 
-The most easiest way to add and modify interactive modal windows to a JavaScript applications. {.main-tagline}
-----------------------------------------------------------------------------------------------
-
+<p align="center">
 Chose from wide variety of iconic animations and build any kind of
 notification popups, off-the-screen forms, beautiful nav bars and much
 more!
+</p>
 
-Download Library
+### Documentation
 
-Read Docs
-
-### Download Section {#download .section-heading}
-
-#### How to download modal.js: {.sub-section-heading}
+#### How to download modal.js:
 
 1.  Chose your input animation from drop down.
 2.  Chose your output animation from drop down.
@@ -25,56 +25,19 @@ Read Docs
 6.  Download modal.js source file when you're satisfied with the look
     and content of modal window.
 
-Input Animation: bounce flash pulse rubberBand shake swing tada wobble
-jello bounceIn bounceInDown bounceInLeft bounceInRight bounceInUp
-bounceOut bounceOutDown bounceOutLeft bounceOutRight bounceOutUp fadeIn
-fadeInDown fadeInDownBig fadeInLeft fadeInLeftBig fadeInRight
-fadeInRightBig fadeInUp fadeInUpBig fadeOut fadeOutDown fadeOutDownBig
-fadeOutLeft fadeOutLeftBig fadeOutRight fadeOutRightBig fadeOutUp
-fadeOutUpBig flip flipInX flipInY flipOutX flipOutY lightSpeedIn
-lightSpeedOut rotateIn rotateInDownLeft rotateInDownRight rotateInUpLeft
-rotateInUpRight rotateOut rotateOutDownLeft rotateOutDownRight
-rotateOutUpLeft rotateOutUpRight slideInUp slideInDown slideInLeft
-slideInRight slideOutUp slideOutDown slideOutLeft slideOutRight zoomIn
-zoomInDown zoomInLeft zoomInRight zoomInUp zoomOut zoomOutDown
-zoomOutLeft zoomOutRight zoomOutUp hinge jackInTheBox rollIn rollOut \
- Output Animation: bounce flash pulse rubberBand shake swing tada wobble
-jello bounceIn bounceInDown bounceInLeft bounceInRight bounceInUp
-bounceOut bounceOutDown bounceOutLeft bounceOutRight bounceOutUp fadeIn
-fadeInDown fadeInDownBig fadeInLeft fadeInLeftBig fadeInRight
-fadeInRightBig fadeInUp fadeInUpBig fadeOut fadeOutDown fadeOutDownBig
-fadeOutLeft fadeOutLeftBig fadeOutRight fadeOutRightBig fadeOutUp
-fadeOutUpBig flip flipInX flipInY flipOutX flipOutY lightSpeedIn
-lightSpeedOut rotateIn rotateInDownLeft rotateInDownRight rotateInUpLeft
-rotateInUpRight rotateOut rotateOutDownLeft rotateOutDownRight
-rotateOutUpLeft rotateOutUpRight slideInUp slideInDown slideInLeft
-slideInRight slideOutUp slideOutDown slideOutLeft slideOutRight zoomIn
-zoomInDown zoomInLeft zoomInRight zoomInUp zoomOut zoomOutDown
-zoomOutLeft zoomOutRight zoomOutUp hinge jackInTheBox rollIn rollOut
-
-#### HTML for Modal {style="text-align:center"}
-
-#### CSS for Modal {style="text-align:center"}
-
-Test Output
-
-Download File
-
-### Documentation {#documentation .section-heading}
-
-#### How to use modal.js in your app {.sub-section-heading}
+#### How to use modal.js in your app
 
 -   After you've downloaded `modal.js` file, include this JavaScript
     file at the bottom of HTML content, as shown below.
 
 <!-- -->
 
-      &ltbody>
+      <body>
         ...
-        &lth1&gtI love modal.js</h1>
+        <h1>I love modal.js</h1>
         ...
       </body>
-      &ltscript src="./modal.js"></script>
+      <script src="./modal.js"></script>
       
 
 -   Then, you've to call the `openModal()` function to open the modal
@@ -84,18 +47,18 @@ Download File
 
 <!-- -->
 
-      &ltbody>
+      <body>
         ...
-        &ltbutton> onclick="openModal()"&gtClick to open modal</button>
-        &lth1&gtI love modal.js</h1>
+        <button> onclick="openModal()">Click to open modal</button>
+        <h1>I love modal.js</h1>
         ...
       </body>
-      &ltscript src="./modal.js"></script>
+      <script src="./modal.js"></script>
       
 
 That's it! Your modal window should work like a breeze now.
 
-#### How to modify modal.js HTML and animations after downloading {.sub-section-heading}
+#### How to modify modal.js HTML and animations after downloading
 
 Now, theres an interesting but common case, you've downloaded the
 `modal.js` file, but after downloading the file, you've found to modify
@@ -111,13 +74,13 @@ itself.
       ...
       //HTML inside the modal and Input CSS animation tag
       document.body.innerHTML += 
-        `&ltdiv class="modal" id="myModal">
-          &ltdiv class="modal-content-area animated shake">
-            &lti class="close-button" aria-hidden="true">✖</i>
+        `<div class="modal" id="myModal">
+          <div class="modal-content-area animated shake">
+            <i class="close-button" aria-hidden="true">✖</i>
             
-              &lth1&gtHello world</h1>
-              &ltp&gtIt's shahzaib here.</p>
-              &ltp&gtDownload resume</p>
+              <h1>Hello world</h1>
+              <p>It's shahzaib here.</p>
+              <p>Download resume</p>
             
             
           </div>
@@ -135,7 +98,7 @@ itself.
 -   You can make these changes in `modal.js` file to change animations
     and HTML content of modal window.
 
-#### How to modify modal.js styling after downloading {.sub-section-heading}
+#### How to modify modal.js styling after downloading
 
 Now, after HTML content and animations, next thing to modify is CSS
 styling of modal window and the HTML content within modal window.
@@ -164,7 +127,7 @@ styling of modal window and the HTML content within modal window.
 That's it. Now, you can add or remove CSS style tags here and thus
 modify modal window styling.
 
-#### What if I want to add more than one modal window on same page? {.sub-section-heading}
+#### What if I want to add more than one modal window on same page?
 
 That's complicated! But there's a workaround.
 
@@ -177,14 +140,11 @@ That's complicated! But there's a workaround.
 -   Through this way, you can add as many distinct modal windows as you
     want and trigger them using their respective triggering functions.
 
-### Developer {.section-heading}
+### Developer
 
 modal.js is written by [Shahzaib Khalid](shahzaibkhalid.com)
 
-modal.js is being maintained on
-[GitHub](https://github.com/shahzaibkhalid/modaljs)
-
-### License {.section-heading}
+### License
 
 modal.js is licensed under the MIT License.
 
