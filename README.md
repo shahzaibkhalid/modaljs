@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-modal.js is the most easiest way to add and modify interactive modal windows to a JavaScript applications.
+modal.js is the most easiest way to create, add and modify interactive modal windows to a JavaScript applications.
 </p>
 <p align="center">
 Chose from wide variety of iconic animations and build any kind of
