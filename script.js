@@ -1677,7 +1677,7 @@ let openModal = function() {
   document.getElementById('outAnim').value = localStorage.getItem('outAnim');
   document.getElementById('modalCssCodeBox').value = localStorage.getItem('modalTextBoxCode');
   document.getElementById('modalHTMLBox').value = localStorage.getItem('modalTextBoxHTMLCode');
-  modal.style.display = "Block";
+  modal.style.display = "block";
 }
 
 
